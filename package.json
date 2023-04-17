@@ -1,0 +1,6 @@
+{
+    "devDependencies": {
+        "sass": "^1.62.0",
+        "webpack": "^5.18.0"
+    }
+}

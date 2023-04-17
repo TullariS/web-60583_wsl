@@ -1,0 +1,6 @@
+@import "./file2.scss";
+
+@import "@main/src/scss/file2.scss";
+@import "~@main/src/scss/file2.scss";
+@import "__main/src/scss/file2.scss";
+@import "~__main/src/scss/file2.scss";
